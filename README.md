@@ -32,11 +32,11 @@ the actual byte count, then returns the data portion in a caller-owned buffer.
 
 ### Screenshot 1A — `./test_objects`
 
-![Phase 1A](images/1a.png)
+![Phase 1A](/1a.png)
 
 ### Screenshot 1B — `find .pes/objects -type f`
 
-![Phase 1B](images/1b.png)
+![Phase 1B](/1b.png)
 
 ---
 
