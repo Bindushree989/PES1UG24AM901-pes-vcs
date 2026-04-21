@@ -57,11 +57,11 @@ object store.
 
 ### Screenshot 2A — `./test_tree`
 
-![Phase 2A](images/2a.png)
+![Phase 2A](/2a.png)
 
 ### Screenshot 2B — `xxd` of a raw tree object
 
-![Phase 2B](images/2b.png)
+![Phase 2B](/2b.png)
 
 ---
 
@@ -83,11 +83,11 @@ calls `index_save`.
 
 ### Screenshot 3A — `pes init` → `pes add` → `pes status`
 
-![Phase 3A](images/3a.png)
+![Phase 3A](/3a.png)
 
 ### Screenshot 3B — `cat .pes/index`
 
-![Phase 3B](images/3b.png)
+![Phase 3B](/3b.png)
 
 ---
 
@@ -104,23 +104,23 @@ pointer atomically.
 
 ### Screenshot 4A — `pes log` with three commits
 
-![Phase 4A](images/4a.png)
+![Phase 4A](/4a.png)
 
 ### Screenshot 4B — `find .pes -type f | sort`
 
-![Phase 4B](images/4b.png)
+![Phase 4B](/4b.png)
 
 ### Screenshot 4C — Reference chain
 
-![Phase 4C](images/4c.png)
+![Phase 4C](/4c.png)
 
 ### Final — `make test-integration`
 
-![Integration test part 1](4d.png)
+![Integration test part 1](/4d.png)
 
-![Integration test part 2](4e.png)
+![Integration test part 2](/4e.png)
 
-![Integration test part 3](4f.png)
+![Integration test part 3](/4f.png)
 
 
 ---
